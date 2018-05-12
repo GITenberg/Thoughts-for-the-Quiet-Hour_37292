@@ -1,0 +1,33 @@
+_repo: Thoughts-for-the-Quiet-Hour_37292
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37292-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Moody, Dwight Lyman
+    aliases:
+    - Moody, D. L. (Dwight Lyman)
+    - Moody, Dwight L.
+    birthdate: 1837
+    deathdate: 1899
+    gutenberg_agent_id: '8911'
+    url: http://www.gutenberg.org/2009/agents/8911
+    wikipedia: http://en.wikipedia.org/wiki/Dwight_L._Moody
+description: ''
+gutenberg_issued: '2011-09-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37292'
+  lccn: '02025505'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Devotional calendars'
+- !lcc 'BV'
+- !lcsh 'Meditations'
+- !lcsh 'Devotional exercises'
+title: Thoughts for the Quiet Hour
+url: http://www.gutenberg.org/ebooks/37292
